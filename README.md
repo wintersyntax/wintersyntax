@@ -1,4 +1,4 @@
-# Hi, I’m Petricode
+# Hi, I’m Petricode (just like the Petri dish)
 
 I’m learning software development by building practical little systems: workflow automation, internal tools, small apps and game prototypes.
 
