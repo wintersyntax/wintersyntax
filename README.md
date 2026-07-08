@@ -1,17 +1,17 @@
 # Hi, I’m Petricode
 
-I’m learning software development by building practical projects: workflow automation, internal tools, small apps and game prototypes.
+I’m learning software development by building practical little systems: workflow automation, internal tools, small apps and game prototypes.
 
-My current public project is a Google Apps Script automation layer for a real spreadsheet-based operational workflow. It includes edit handling, row-state tracking, waiting-time logic, admin configuration, XLSX export and daily reset automation.
+I’m drawn to projects that take messy workflows, scattered ideas or repeated manual work and turn them into something clearer, calmer and more usable.
 
-I’m interested in:
+My current public project is **Spreadsheet Workflow Automation**, a Google Apps Script automation layer for a real spreadsheet-based operational workflow. It includes edit handling, row-state tracking, waiting-time logic, admin configuration, XLSX export and daily reset automation.
 
-- workflow automation
-- internal tools
+## Current focus
+
+- workflow automation and internal tools
 - small apps and prototypes
-- game concepts
-- Google Apps Script
-- AI-assisted development
+- game concepts with simple, memorable mechanics
+- AI-assisted development with human direction, testing and judgment
 
 ## Projects
 
