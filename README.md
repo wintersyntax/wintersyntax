@@ -12,3 +12,7 @@ I’m interested in:
 - game concepts
 - Google Apps Script
 - AI-assisted development
+
+## Projects
+
+- [Spreadsheet Workflow Automation](https://github.com/wintersyntax/spreadsheet-workflow-automation) — Google Apps Script automation layer for a spreadsheet-based operational workflow.
