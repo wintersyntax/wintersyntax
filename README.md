@@ -1,17 +1,15 @@
 # Hi, I’m Petricode
 
-I’m learning software development by building practical little systems: workflow automation, internal tools, small apps and game prototypes. 
+I build practical software systems around workflow automation, internal tools and AI-assisted development.
 
-I’m drawn to projects that take messy workflows, scattered ideas or repeated manual work and turn them into something clearer, calmer and more usable.
-
-My current public projects focus on practical automation systems: a real spreadsheet-based operational workflow, an evidence-aware exercise science and nutrition podcast pipeline, and an active work-in-progress workflow for more controlled AI-assisted software development.
+I’m drawn to messy or repetitive processes that can be turned into something more structured, testable and easier to operate. My current public portfolio includes a real spreadsheet-based operational workflow, an evidence-aware exercise science and nutrition podcast pipeline, and an active work-in-progress workflow for more controlled AI-assisted software development.
 
 ## Current focus
 
 - workflow automation and internal tools
-- small apps and prototypes
-- game concepts with simple, memorable mechanics
+- Python automation and data pipelines
 - AI-assisted development with durable project memory, bounded execution, testing and human judgment
+- small apps and prototypes
 
 ## Projects
 
