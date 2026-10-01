@@ -15,6 +15,6 @@ My current public project is **Spreadsheet Workflow Automation**, a Google Apps 
 
 ## Projects
 
-- [Spreadsheet Workflow Automation](https://github.com/wintersyntax/spreadsheet-workflow-automation) — Google Apps Script automation layer for a spreadsheet-based operational workflow.
+- [Spreadsheet Workflow Automation](https://github.com/wintersyntax/spreadsheet-workflow-automation) — event-driven Google Apps Script system with concurrency control, workflow state tracking, background automation and XLSX reporting.
 
 P.S. It's pronounced just like the Petri dish ;)
