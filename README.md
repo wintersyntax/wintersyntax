@@ -1,4 +1,4 @@
-# Hi, I'm Petricode 👋
+# Hi, I'm Petricode
 
 I'm a medical doctor by training, based in Oslo, and I build software and automation projects that make everyday work a little easier.
 
